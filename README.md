@@ -1,4 +1,4 @@
-Note: here's a video demo of this: https://youtu.be/CBgsRc_1pV0
+**Note:** here's a video demo of this: https://youtu.be/CBgsRc_1pV0
 
 **Inspiration:** 
 We were bored, and we thought of circles
