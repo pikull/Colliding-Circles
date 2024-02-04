@@ -24,4 +24,5 @@ WASD for Red,
 Arrows for Cyan,
 If 20 secs are up, Cyan wins
 If Red touches Cyan, Red wins
-Have fun!
+
+**Have fun!**
