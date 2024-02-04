@@ -54,7 +54,7 @@ async def main():
     pygame.display.set_caption('   Colliding Circles')
     pygame.display.set_icon(pygame.image.load('vikinghacks.webp')
 )
-    height, width = 1500/2, 1500/2
+    height, width = 1000/2, 1000/2
     screen = pygame.display.set_mode((height, width), pygame.RESIZABLE)
     clock = pygame.time.Clock()
     running = True
