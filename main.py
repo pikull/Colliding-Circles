@@ -139,7 +139,6 @@ async def main():
             Press 'Enter' to start
             Red: WASD to move, L_SHIFT to boost
             Cyan: Arrow Keys to Move, SPACE to boost
-            There is a limited amount of boost
             Cyan wins if time runs out""",\
             True, "white", "black")
             insts_rect = insts.get_rect()
